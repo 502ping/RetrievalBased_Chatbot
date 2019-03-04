@@ -18,6 +18,6 @@ element required:<br>
 1.city<br>
 2.date<br>
 # Pipeline
-1. Run chatbot.py<br>
-2. Scan the QR code with WeChat mobile APP to login WeChat Account<br>
-3. Talk to the Account mentioned in (2) to chat with the Chatbot<br>
+1.Run chatbot.py<br>
+2.Scan the QR code with WeChat mobile APP to login WeChat Account<br>
+3.Talk to the Account mentioned in (2) to chat with the Chatbot<br>
