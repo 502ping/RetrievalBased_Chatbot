@@ -2,7 +2,8 @@
 A Chatbot
 # Main Functions
 ## Free chat(chit-chat)
-based on retrieval model<br>
+Priciple based on retrieval model<br>
+Using itchat to invoke Wechat interface
 ## Book fight ticket
 Invoking Baidu Unit 2.0<br>
 element required:<br>
@@ -16,8 +17,6 @@ Invoking Tuling Robot
 element required:<br>
 1.city<br>
 2.date<br>
-# Wechat Interface
-Using itchat to invoke Wechat interface
 # Pipeline
 1. Run chatbot.py<br>
 2. Scan the QR code with WeChat mobile APP to login WeChat Account<br>
