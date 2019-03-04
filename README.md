@@ -1,11 +1,23 @@
 # RetrievalBased_Chatbot
-Chatbot
+A Chatbot
 # Main Functions
-## Free chat(chit-chat) based on retrieval model<br>
+## Free chat(chit-chat)
+based on retrieval model<br>
 ## Book fight ticket
-element required: 1.starting location 2.landing location 3.date to take off 4.time to take off 5.seats requirement
-## Check the weather
-element required: 1.city 2.date
+Invoking Baidu Unit 2.0<br>
+element required:<br>
+1.starting location<br>
+2.landing location<br>
+3.date to take off<br>
+4.time to take off<br>
+5.seats requirement<br>
+## Check the weather(and tell jokes)
+Invoking Tuling Robot
+element required:<br>
+1.city<br>
+2.date<br>
+# Wechat Interface
+Using itchat to invoke Wechat interface
 # Pipeline
 1. Run chatbot.py<br>
 2. Scan the QR code with WeChat mobile APP to login WeChat Account<br>
